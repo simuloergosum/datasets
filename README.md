@@ -30,3 +30,14 @@
 - [NYC Dog Names](https://github.com/Kaz-A/dog_names/)
 - [NCAA student athlete graduation success data](https://www.icpsr.umich.edu/icpsrweb/content/NCAA/data.html)
 - [The National UFO Reporting Center Online Database](http://www.nuforc.org/webreports.html) (not downloadable, but could be converted to a spreadsheet – ask Kate for help) 
+- [Association of Religion Data Archives (ARDA)](http://www.thearda.com/Archive/Browse.asp)
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) – index of datasets
+- [Big 10 Academic Alliance GeoPortal](https://geo.btaa.org/) – maps and geodata held by Big 10 universities
+- [Datacite]https://search.datacite.org/()
+- [DataisPlural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) – spreadsheet of datasets shared from curated email list
+- [Documenting the Now](https://catalog.docnow.io/) – Collection of twitter datasets
+- [Digital Humanities Resources for Project Building](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244469/Data%20Collections%20and%20Datasets) – Data Collections & Datasets
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
+- [Library of Congress](https://labs.loc.gov/lc-for-robots?loclr=blogsig) – (Labs guide for using data)
+- [MSU Library Datasets](https://lib.msu.edu/dsc/datasets/)
+- [Project Gutenberg](http://www.gutenberg.org/) – books available as plain text
