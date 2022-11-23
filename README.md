@@ -41,3 +41,23 @@
 - [Library of Congress](https://labs.loc.gov/lc-for-robots?loclr=blogsig) – (Labs guide for using data)
 - [MSU Library Datasets](https://lib.msu.edu/dsc/datasets/)
 - [Project Gutenberg](http://www.gutenberg.org/) – books available as plain text
+- [Social networks](http://snap.stanford.edu/data/#socnets) : online social networks, edges represent interactions between people
+- [Networks with ground-truth communities](http://snap.stanford.edu/data/#communities) : ground-truth network communities in social and information networks
+- [Communication networks](http://snap.stanford.edu/data/#email) : email communication networks with edges representing communication
+- [Citation networks](http://snap.stanford.edu/data/#citnets) : nodes represent papers, edges represent citations
+- [Collaboration networks](http://snap.stanford.edu/data/#canets) : nodes represent scientists, edges represent collaborations (co-authoring a paper)
+- [Web graphs](http://snap.stanford.edu/data/#web) : nodes represent webpages and edges are hyperlinks
+- [Amazon networks](http://snap.stanford.edu/data/#amazon) : nodes represent products and edges link commonly co-purchased products
+- [Internet networks](http://snap.stanford.edu/data/#p2p) : nodes represent computers and edges communication
+- [Road networks](http://snap.stanford.edu/data/#road) : nodes represent intersections and edges roads connecting the intersections
+- [Autonomous systems](http://snap.stanford.edu/data/#as) : graphs of the internet
+- [Signed networks](http://snap.stanford.edu/data/#signnets) : networks with positive and negative edges (friend/foe, trust/distrust)
+- [Location-based online social networks](http://snap.stanford.edu/data/#locnet) : social networks with geographic check-ins
+- [Wikipedia networks, articles, and metadata](http://snap.stanford.edu/data/#wikipedia) : talk, editing, voting, and article data from Wikipedia
+- [Temporal networks](http://snap.stanford.edu/data/#temporal) : networks where edges have timestamps
+- [Twitter and Memetracker](http://snap.stanford.edu/data/#twitter) : memetracker phrases, links and 467 million Tweets
+- [Online communities](http://snap.stanford.edu/data/#onlinecoms) : data from online communities such as Reddit and Flickr
+- [Online reviews](http://snap.stanford.edu/data/#reviews) : data from online review systems such as BeerAdvocate and Amazon
+- [User actions](http://snap.stanford.edu/data/#actions) : actions of users on social platforms.
+- [Face-to-face communication networks](http://snap.stanford.edu/data/#face2face) : networks of face-to-face (non-online) interactions
+- [Graph classification datasets](http://snap.stanford.edu/data/#disjointgraphs) : disjoint graphs from different classes
